@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.554" height="46" viewBox="0 0 39.554 46">
+  <defs>
+    <filter id="Caminho_1645" x="0" y="0" width="39.554" height="46" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#75d8f1" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Agrupar_1030" data-name="Agrupar 1030" transform="translate(-913.672 -408.638)">
+    <g id="Agrupar_2777" data-name="Agrupar 2777" transform="translate(923.172 415.138)">
+      <g transform="matrix(1, 0, 0, 1, -9.5, -6.5)" filter="url(#Caminho_1645)">
+        <path id="Caminho_1645-2" data-name="Caminho 1645" d="M22.054,6.517,15.66,0H1.5V27H22.054Z" transform="translate(8 6.5)" fill="#005b9e" stroke="#eceff1" stroke-width="1"/>
+      </g>
+      <g id="Agrupar_2776" data-name="Agrupar 2776" transform="translate(5.625 8.282)">
+        <path id="Caminho_1646" data-name="Caminho 1646" d="M10.845,21.689h8.614a.344.344,0,1,0,0-.689H10.845a.344.344,0,1,0,0,.689Z" transform="translate(-10.5 -18.245)" fill="#f5f5f0"/>
+        <path id="Caminho_1647" data-name="Caminho 1647" d="M10.845,13.689H14.29a.344.344,0,1,0,0-.689H10.845a.344.344,0,1,0,0,.689Z" transform="translate(-10.5 -13)" fill="#f5f5f0"/>
+        <path id="Caminho_1648" data-name="Caminho 1648" d="M19.459,29H10.845a.344.344,0,1,0,0,.689h8.614a.344.344,0,1,0,0-.689Z" transform="translate(-10.5 -23.489)" fill="#f5f5f0"/>
+        <path id="Caminho_1649" data-name="Caminho 1649" d="M19.459,37H10.845a.344.344,0,1,0,0,.689h8.614a.344.344,0,1,0,0-.689Z" transform="translate(-10.5 -28.734)" fill="#f5f5f0"/>
+        <path id="Caminho_1650" data-name="Caminho 1650" d="M19.459,45H10.845a.344.344,0,1,0,0,.689h8.614a.344.344,0,1,0,0-.689Z" transform="translate(-10.5 -33.978)" fill="#f5f5f0"/>
+      </g>
+      <path id="Caminho_1651" data-name="Caminho 1651" d="M32.5,0V4.822h4.824Z" transform="translate(-16.77)" fill="#eceff1"/>
+    </g>
+    <g id="Agrupar_2778" data-name="Agrupar 2778" transform="translate(938.902 433.872)">
+      <path id="Caminho_1653" data-name="Caminho 1653" d="M4.135,0A4.133,4.133,0,1,1,0,4.133,4.134,4.134,0,0,1,4.135,0Z" fill="#005b9e" stroke="#eceff1" stroke-width="1"/>
+      <path id="Caminho_1652" data-name="Caminho 1652" d="M41.979,41.067H40.257V39.344a.345.345,0,0,0-.689,0v1.722H37.845a.344.344,0,1,0,0,.689h1.723v1.722a.345.345,0,0,0,.689,0V41.755h1.723a.344.344,0,1,0,0-.689Z" transform="translate(-35.777 -37.278)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

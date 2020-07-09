@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119" height="53.413" viewBox="0 0 119 72">
+  <g id="Agrupar_2812" data-name="Agrupar 2812" transform="translate(-1324 -167)">
+    <text id="A_partir_de_9_dias" data-name="A partir de 9 dias" transform="translate(1360 189)" fill="#4d4f5c" font-size="6" font-family="Poppins, sans-serif"><tspan x="0" y="10">A partir de 9 dias</tspan></text>
+    <text id="Entre_6_e_8_dias" data-name="Entre 6 e 8 dias" transform="translate(1360 208)" fill="#4d4f5c" font-size="6" font-family="Poppins, sans-serif"><tspan x="0" y="10">Entre 6 e 8 dias</tspan></text>
+    <g id="Agrupar_2775" data-name="Agrupar 2775" transform="translate(138 -95)">
+      <rect id="Retângulo_1957" data-name="Retângulo 1957" width="15" height="53" rx="4" transform="translate(1186 279)" fill="#bebebe"/>
+      <circle id="Elipse_284" data-name="Elipse 284" cx="5.5" cy="5.5" r="5.5" transform="translate(1188 318)" fill="#57c927"/>
+      <circle id="Elipse_285" data-name="Elipse 285" cx="5.5" cy="5.5" r="5.5" transform="translate(1188 300)" fill="#e5be21"/>
+      <circle id="Elipse_286" data-name="Elipse 286" cx="5.5" cy="5.5" r="5.5" transform="translate(1188 281)" fill="#fe4c5f"/>
+      <path id="Caminho_1646" data-name="Caminho 1646" d="M102.4,522.373h15.327l6.644,9.437h73.26" transform="translate(1096.623 -235.547)" fill="none" stroke="#3d3f5c" stroke-miterlimit="10" stroke-width="0.3"/>
+      <path id="Caminho_1647" data-name="Caminho 1647" d="M102.4,522.373h15.327l6.644,9.437h73.26" transform="translate(1096.623 -216.547)" fill="none" stroke="#3d3f5c" stroke-miterlimit="10" stroke-width="0.3"/>
+      <path id="Caminho_1648" data-name="Caminho 1648" d="M102.4,522.373h15.327l6.644,9.437h73.26" transform="translate(1096.623 -199.547)" fill="none" stroke="#3d3f5c" stroke-miterlimit="10" stroke-width="0.3"/>
+    </g>
+    <text id="Entre_1_e_5_dias" data-name="Entre 1 e 5 dias" transform="translate(1360 225)" fill="#4d4f5c" font-size="6" font-family="Poppins, sans-serif"><tspan x="0" y="10">Entre 1 e 5 dias</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,270 @@
+/*
+Template Name: Material Pro Admin
+Author: Themedesigner
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+/*==============================================================
+ For Laptop & above all (1650px)
+ ============================================================== */
+
+@media (min-width: 1650px) {
+  .main-container.boxed {
+    max-width: 1920px;
+    margin: 0 auto;
+  }
+}
+
+/*==============================================================
+ For Laptop & above all (1370px)
+ ============================================================== */
+
+@media (max-width: 1600px) {
+  .main-container.boxed {
+    max-width: 1300px;
+    margin: 0 auto;
+  }
+}
+
+/*-- ==============================================================
+ Small Desktop & above all (1024px)
+ ============================================================== */
+
+@media (min-width: 1024px) {
+  .card-group {
+    padding: 0 15px;
+    display: flex;
+    flex-flow: row wrap;
+
+    .mat-card {
+      margin: 15px 0px;
+      flex: 1 0 0%;
+      border-left: 1px solid $border;
+
+      &:first-child {
+        border: 0px;
+      }
+    }
+  }
+}
+
+@media (max-width: 1023px) {
+  .card-group {
+    margin: 15px 0;
+
+    .mat-card {
+      margin: 0 15px;
+      border-top: 1px solid $border;
+
+      &:first-child {
+        border: 0px;
+      }
+    }
+  }
+}
+
+/*-- ==============================================================
+ Ipad & above all(768px)
+ ============================================================== */
+
+@media (min-width: 768px) {
+  .navbar-header {
+    width: 225px;
+    flex-shrink: 0;
+
+    .navbar-brand {
+      padding-top: 0px;
+    }
+  }
+}
+
+/*-- ==============================================================
+ Phone and below ipad(767px)
+ ============================================================== */
+
+@media (max-width: 767px) {
+  .mat-toolbar-single-row {
+    height: 64px !important;
+  }
+
+  .d-flex {
+    display: block;
+  }
+
+  .no-block {
+    display: flex;
+  }
+
+  .email-right-panel {
+    .col-md-2 {
+      width: 100%;
+    }
+  }
+
+  .icon-box {
+    width: 50%;
+  }
+
+  .chatContainer {
+    height: calc(100% - 255px) !important;
+  }
+
+  .chat-size {
+    height: calc(100% - 94px) !important;
+    min-width: auto !important;
+    width: calc(100% - 10px) !important;
+  }
+
+  .container {
+    max-width: -webkit-fill-available !important;
+  }
+}
+
+// @media (min-width: 1024px) {
+// .testeb{
+//   max-width: calc(100% - 80px) !important;
+//   }
+// }
+
+
+@media (max-width: 1024px) {
+  html {
+    width: 121%;
+    height: -webkit-fill-available;
+  }
+
+  html .page-wrapper {
+    height: auto;
+  }
+
+  .segunda-coluna {
+    margin-right: 0px !important;
+  }
+
+  .mat-tab-label {
+    min-width: 300px !important;
+  }
+
+  .menuNotificationsResponsible {
+    display: none !important;
+  }
+
+  .table-container {
+    max-width: 1182px !important;
+    overflow: scroll !important;
+    min-width: auto !important;
+    max-height: none !important;
+    overflow-y: hidden !important;
+  }
+
+  .mat-table {
+    width: 1321px !important;
+  }
+
+  .mat-form-field {
+    width: -webkit-fill-available !important;
+    padding-right: 15px !important;
+  }
+
+  .mat-form-field-wrapper {
+    text-align: left;
+  }
+
+  .margin-responsi {
+    margin-left: 6% !important;
+  }
+
+  .pr-0,
+  .px-0 {
+    padding-right: 0;
+  }
+
+  .pl-0,
+  .px-0 {
+    padding-left: 0;
+  }
+
+  .pl-1rem {
+    padding-left: 0rem !important;
+  }
+
+  .padding-info-carro {
+    padding-left: 0px !important;
+  }
+
+  .itens-align {
+    display: -webkit-inline-box !important;
+  }
+
+  .bnt-upload {
+    width: 85% !important;
+  }
+
+  .img-upload {
+    width: 87% !important;
+  }
+
+  .carousel-img {
+    display: -webkit-box !important;
+    flex-wrap: nowrap !important;
+    width: 200px !important;
+  }
+
+  .divTable {
+    max-width: 1182px !important;
+    overflow: scroll !important;
+    min-width: auto !important;
+    max-height: none !important;
+    overflow-y: hidden !important;
+    display: -webkit-box !important;
+  }
+
+  .sizeFin {
+    width: 860px !important;
+  }
+
+  .chatParent {
+    overflow-y: hidden;
+    height: 0px;
+    width: -webkit-fill-available !important;
+  }
+
+  .cards {
+    justify-content: center;
+    margin: 12px 0px !important;
+    padding-bottom: 20px;
+    overflow: auto;
+  }
+
+  .primeira-coluna {
+    margin-left: 0px !important;
+    max-width: 100% !important;
+  }
+
+  .m-68 {
+    width: 24% !important;
+    margin: 0px 68px !important;
+  }
+
+  .radio {
+    margin-right: -61px !important;
+    margin-left: 6px !important;
+  }
+
+  .pl-responsive {
+    padding-left: 0px !important;
+  }
+
+  .tabela-responsiva{
+    width: 305% !important;
+  }
+
+  .w-response{
+    width: none;
+  }
+
+  .grid-carros{
+    max-width: 100% !important;
+  }
+
+}

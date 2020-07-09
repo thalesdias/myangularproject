@@ -1,0 +1,78 @@
+{
+  "UN-E001": "Ocorreu um erro inesperado.",
+  "UN-E002": "Por favor, preencha o formulário com campos obrigatórios e informações requeridas.",
+  "UN-S002": "Registro inserido com sucesso!",
+  "UN-S003": "Registro atualizado com sucesso!",
+  "LOGIN": {
+    "FORM": {
+      "LBL_USER": "E-mail",
+      "LBL_EMAIL": "E-mail",
+      "LBL_PASSW": "Senha",
+      "LBL_NEW_PASSW": "Nova senha",
+      "LBL_CONFIRM_NEW_PASSW": "Confirme sua nova senha",
+      "LBL_CPF_CNPJ": "CNPJ/CPF",
+      "LBL_ESQUECI_SENHA": "Esqueci minha senha",
+      "LBL_LEMBRAR_SENHA": "Lembrar-me",
+      "BTN_SUBMIT": "ENTRAR",
+      "BTN_SALVAR": "SALVAR",
+      "BTN_ENVIAR": "ENVIAR",
+      "LBL_DESCRICAO_GENERICA": "CPF, CNPJ, Nome Fantasia ou Razão Social",
+      "EFETUAR_LOGIN": "Efetuar login como",
+      "BOTAO_PESQUISAR": "Pesquisar"
+    },
+    "ESQUECI_SENHA": {
+      "TITLE": "Esqueci minha senha",
+      "INTRODUCAO": "Insira o e-mail que você usou no cadastro. Enviaremos um e-mail com um link para você definir sua nova senha."
+    },
+    "NOVAS_CREDENCIAIS": {
+      "TITLE": "Informe suas novas credenciais de acesso",
+      "LABELS": {
+        "LBL_CONTA_ADM": "Conta Administrativa (Acesso total ao portal)",
+        "LBL_CONTA_OPE": "Conta Operacional (Acesso restrito ao portal)",
+        "LBL_NOME": "Nome",
+        "LBL_SOBRENOME": "Sobrenome",
+        "LBL_CPF": "CPF",
+        "LBL_EMAIL": "Endereço de e-mail que deseja utilizar",
+        "LBL_CONFIRMA_EMAIL": "Confirme o e-mail informado no passo anterior",
+        "LBL_SENHA": "Nova senha",
+        "LBL_CONFIRMA_SENHA": "Confirme sua nova senha",
+        "LBL_MOSTRAR_SENHA": "Mostrar senha",
+        "LBL_OCULTAR_SENHA": "Ocultar senha",
+        "LBL_BTN_AVANCAR": "Avançar"
+      }
+    }
+  },
+  "HOME": {
+    "LABELS": {
+      "LBL_USUARIO": "Usuário",
+      "LBL_EMPRESA": "Empresa",
+      "LBL_GRUPO_ECONOMICO": "Grupo Econômico",
+      "LBL_PRODUTO": "Produto",
+      "LBL_CONFIGURACOES": "Configurações"
+    }
+  },
+  "USUARIOS": {
+    "ABAS": {
+      "LBL_COLABORADOR": "Colaborador"
+    },
+    "TABELA_USUARIOS": {
+      "LBL_NOME": "Nome",
+      "LBL_PERFIL": "Perfil"
+    }
+  },
+  "CONTAS_A_PAGAR": {
+    "ABAS": {
+      "LBL_LICENCA_DE_USO": "Licença de uso so sistema"
+    },
+    "TITLE": {
+      "LBL_DATA_LIMITE": "Data Limite",
+      "RENOVACAO_LICENCA": {
+        "TITLE": {
+          "LBL_EM_DIA": "Em dia",
+          "LBL_ATRASADO": "Atrasados",
+          "LBL_STATUS": "Status"
+        }
+      }
+    }
+  }
+}

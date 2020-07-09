@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Agrupar_3099" data-name="Agrupar 3099" transform="translate(-1041.165 -912)">
+    <g id="Agrupar_1117" data-name="Agrupar 1117" transform="translate(1041.165 912)">
+      <g id="Agrupar_1063" data-name="Agrupar 1063" transform="translate(0)">
+        <g id="Agrupar_1059" data-name="Agrupar 1059">
+          <circle id="Elipse_216" data-name="Elipse 216" cx="15" cy="15" r="15" fill="#005b9e"/>
+        </g>
+      </g>
+    </g>
+    <g id="thumb-up-button" transform="translate(1044.165 919.827)">
+      <g id="thumb-up" transform="translate(2 -3.997)">
+        <path id="Caminho_880" data-name="Caminho 880" d="M0,18.619H3.724V7.448H0ZM20.481,8.379a1.867,1.867,0,0,0-1.862-1.862H12.754l.931-4.282V1.955A1.952,1.952,0,0,0,13.313.931L12.289,0,6.144,6.144a1.562,1.562,0,0,0-.559,1.3v9.31a1.867,1.867,0,0,0,1.862,1.862h8.379A1.839,1.839,0,0,0,17.5,17.5l2.793-6.61a1.584,1.584,0,0,0,.093-.652V8.379h.093Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
